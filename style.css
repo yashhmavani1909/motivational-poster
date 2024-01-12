@@ -1,0 +1,29 @@
+#main{
+    height: 650px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: black;
+}
+
+img{
+    border: 5px solid whitesmoke ;
+    margin-top: 50px;
+    margin-left: 28%;
+    height: 300px;
+    width: 40%;
+}
+
+h1{
+    font-family: "Libre Baskerville", serif;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 70px;
+    margin-bottom: 5px;
+}
+
+p{
+    color: antiquewhite;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
